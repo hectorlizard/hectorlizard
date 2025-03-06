@@ -1,16 +1,13 @@
-## Hi there 👋
+#### Currently building  
+  
 
-<!--
-**hectorlizard/hectorlizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏝️ The unannounced, educative, non-profit  fan remake of a beloved game.
+  
 
-Here are some ideas to get you started:
+- 📚 _Fictions_, comprised of _Levels_, _Volumes_, _Sagas_ and _Enchiridion_, the ultimate app suite to read, play and navigate your multiverse of games, books, movies and lore by franchises, continuities, realities and more, with a focus on creators and behind-the-scenes content.  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Maintaining  
+  
+
+- 🖼️ _Hector's Big Picture_, a pixel-perfect, full-screen layout for all game, media and graphics communities on Reddit.  
