@@ -6,7 +6,7 @@
 
 - 📚 _Fictions_, comprised of _Levels_, _Volumes_, _Sagas_ and _Enchiridion_, the ultimate app suite to read, play and navigate your multiverse of games, books, movies and lore by franchises, continuities, realities and more, with a focus on creators and behind-the-scenes content.
 
-- 💎 [Icons for macOS](https://macosicons.com/#/u/hectorlizard)
+- 💎 [Icons for macOS](https://macosicons.com/u/hectorlizard)
   
 
 #### Maintaining  
