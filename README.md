@@ -4,7 +4,7 @@
 - 🏝️ The unannounced, educative, non-profit  fan remake of a beloved game.
   
 
-- 📚 _Fictions_, comprised of _Levels_, _Volumes_, _Sagas_ and _Enchiridion_, the ultimate app suite to read, play and navigate your multiverse of games, books, movies and lore by franchises, continuities, realities and more, with a focus on creators and behind-the-scenes content.
+- 📚 _Fictions_, comprised of _Levels_, _Volumes_, _Frames_ and _Enchiridion_, the ultimate app suite to read, play and navigate your multiverse of games, books, movies and lore by franchises, continuities, realities and more, with a focus on creators and behind-the-scenes content.
 
 - 📐 _Hector Creator_, comprised of Eyrie, Figs and Scales, the supercharged creative tools Apple Forgot.
 
