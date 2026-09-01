@@ -1,6 +1,6 @@
 #### Currently building  
   
-- 🏝️ The richly documented, creative  fan remake of a _TWENTY_ years old game.
+- 🏝️ The richly documented, creative fan remake of a _TWENTY_ years old game.
   
 - 📚 _Fictions_, comprised of _Levels_, _Volumes_, _Frames_ and _Enchiridion_, the ultimate cross-platform native app suite to read, play and navigate your multiverse of games, books, movies and lore by franchises, continuities, realities and more, with a focus on creators and behind-the-scenes content.
 
